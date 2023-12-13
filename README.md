@@ -1,2 +1,2 @@
-# User-Agent-Youtube
-Un script de Tampermonkey para cambiar el user agent de youtube 
+# User-Agent-List-Filter
+Un script de python para filtrar user agents de una lista por Navegador o por Sitema operativo  
