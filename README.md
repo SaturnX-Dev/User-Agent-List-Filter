@@ -1,7 +1,6 @@
 User Agent List Filter
 
 [![GitHub](https://img.shields.io/github/license/SaturnX-Dev/User-Agent-List-Filter)](https://github.com/SaturnX-Dev/User-Agent-List-Filter/blob/main/LICENSE.txt)
-[![GitHub last commit](https://img.shields.io/github/last-commit/SaturnX-Dev/User-Ag
 ![GitHub last commit](https://img.shields.io/github/last-commit/SaturnX-Dev/User-Agent-List-Filter)](https://github.com/SaturnX-Dev/User-Agent-List-Filter/commits/main)
 
 ## Descripción
