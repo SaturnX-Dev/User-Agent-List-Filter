@@ -1,7 +1,6 @@
 User Agent List Filter
 
 [![GitHub](https://img.shields.io/github/license/SaturnX-Dev/User-Agent-List-Filter)](https://github.com/SaturnX-Dev/User-Agent-List-Filter/blob/main/LICENSE.txt)
-![GitHub last commit](https://img.shields.io/github/last-commit/SaturnX-Dev/User-Agent-List-Filter)](https://github.com/SaturnX-Dev/User-Agent-List-Filter/commits/main)
 
 ## Descripción
 Este script en Python proporciona una interfaz interactiva para filtrar una lista de User Agents por navegador o sistema operativo. Puedes utilizarlo para analizar y clasificar User Agents de acuerdo con tus necesidades específicas.
