@@ -1,7 +1,7 @@
 User Agent List Filter
 
-[![Version](https://img.shields.io/badge/Version-1.0-brightgreen)](https://github.com/tu-usuario/tu-repositorio/releases/tag/v1.0)
-[![License](https://img.shields.io/badge/License-GPL--3.0-blue)](LICENSE)
+[![Version](https://img.shields.io/badge/Version-1.0-brightgreen)](https://github.com/SaturnX-Dev/User-Agent-List-Filter/releases/tag/V1)
+[![License](https://img.shields.io/badge/License-GPL--3.0-blue)](https://github.com/SaturnX-Dev/User-Agent-List-Filter/blob/main/LICENSE.txt)
 
 
 ## Descripción
