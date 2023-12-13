@@ -1,6 +1,4 @@
 User Agent List Filter
-GitHub
-GitHub last commit
 
 Descripción
 Este script en Python proporciona una interfaz interactiva para filtrar una lista de User Agents por navegador o sistema operativo. Puedes utilizarlo para analizar y clasificar User Agents de acuerdo con tus necesidades específicas.
